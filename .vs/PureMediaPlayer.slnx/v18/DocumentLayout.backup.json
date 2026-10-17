@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PureMediaPlayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{741BD4FB-46F3-5F08-08E8-E64A3BECA8CE}|PureMediaPlayer.csproj|d:\\puremediaplayer\\app.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{741BD4FB-46F3-5F08-08E8-E64A3BECA8CE}|PureMediaPlayer.csproj|solutionrelative:app.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741BD4FB-46F3-5F08-08E8-E64A3BECA8CE}|PureMediaPlayer.csproj|d:\\puremediaplayer\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741BD4FB-46F3-5F08-08E8-E64A3BECA8CE}|PureMediaPlayer.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741BD4FB-46F3-5F08-08E8-E64A3BECA8CE}|PureMediaPlayer.csproj|d:\\puremediaplayer\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741BD4FB-46F3-5F08-08E8-E64A3BECA8CE}|PureMediaPlayer.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741BD4FB-46F3-5F08-08E8-E64A3BECA8CE}|PureMediaPlayer.csproj|d:\\puremediaplayer\\puremediaplayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{741BD4FB-46F3-5F08-08E8-E64A3BECA8CE}|PureMediaPlayer.csproj|solutionrelative:puremediaplayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xml",
+              "DocumentMoniker": "D:\\PureMediaPlayer\\App.xml",
+              "RelativeDocumentMoniker": "App.xml",
+              "ToolTip": "D:\\PureMediaPlayer\\App.xml",
+              "RelativeToolTip": "App.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-10-17T15:12:41.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\PureMediaPlayer\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "D:\\PureMediaPlayer\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:12:39.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PureMediaPlayer\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PureMediaPlayer\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T15:05:32.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PureMediaPlayer.csproj",
+              "DocumentMoniker": "D:\\PureMediaPlayer\\PureMediaPlayer.csproj",
+              "RelativeDocumentMoniker": "PureMediaPlayer.csproj",
+              "ToolTip": "D:\\PureMediaPlayer\\PureMediaPlayer.csproj",
+              "RelativeToolTip": "PureMediaPlayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T15:01:40.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

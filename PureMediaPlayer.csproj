@@ -9,8 +9,4 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ApplicationDefinition Include="App.xaml" />
-    <Page Include="Views\MainWindow.xaml" />
-  </ItemGroup>
 </Project>
